@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Bolt's home</title>
+	<link rel="shortcut icon" href="http://ie.cnbeta.com/icon.png" type="image/x-icon" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<!-- IE10 begin-->
+	<meta name="application-name" content="Bolt's home"/>
+	<meta name="msapplication-tooltip" content="Channel 9 Podcasts" />
+	<meta name="msapplication-starturl" content="./" />
+	<meta name="msapplication-window" content="width=1024;height=768" />
+	<meta name="msapplication-navbutton-color" content="#FF3300" />
+	<meta name="msapplication-TileColor" content="#547fb2"/> 
+	<!-- <meta name="msapplication-TileImage" content="http://ie.cnbeta.com/icon.png"/> -->
+	<meta name="msapplication-task" content="name=点点;action-uri=http://www.diandian.com/;icon-uri=http://meiriyiwen.com/favicon.ico" />
+	<meta name="msapplication-task" content="name=Gist;action-uri=https://gist.github.com/lc60005457;icon-uri=http://meiriyiwen.com/favicon.ico" />
+	<meta name="msapplication-task" content="name=tita;action-uri=http://www.tita.com/;icon-uri=http://meiriyiwen.com/favicon.ico" />
+	<meta name="msapplication-task-separator" content="娱乐" />
+	<meta name="msapplication-task" content="name=不吐不快;action-uri=http://www.soku.com/detail/show/XMTA5NTI0MA==;icon-uri=http://meiriyiwen.com/favicon.ico" />
+	<!-- IE10 end-->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<style>
+		body, iframe{
+			margin: 0;
+			padding: 0;
+			border: none;
+		}
+		#ok{
+			position: fixed;
+			right: 50px;
+			top: 50px;
+			width: 50px;
+			height: 50px;
+			border-radius: 25px;
+			z-index: 100;
+		}
+	</style>
+</head>
+<body>
+	<iframe src="http://www.diandian.com/" frameborder="0" id="my"></iframe>
+	<button id="ok">完成</button>
+	<script>
+		$(document).ready(function() {
+			//IE10 begin
+			    window.external.msSiteModeCreateJumpList("Searches");
+			//IE10 end
+
+			var my = document.getElementById('my'),
+				ok = document.getElementById('ok'),
+				W = window.innerWidth,
+				H = window.innerHeight,
+				i = 0,
+				date = new Date(),
+				j = date.getDay(),
+				k = date.getDate(),
+				src,
+				mysrc;
+			my.style.width = W + "px";
+			my.style.height = H - 5 + "px";
+			$(ok).click(function () {
+				switch(j){
+					case 1: mysrc="http://video.56.com/opera/6581.html";break;
+					case 2: mysrc="http://yule.iqiyi.com/gossipbang.html";break;
+					case 3: mysrc="http://www.geekpark.net/cast/";break;
+					case 4: mysrc="http://v.qq.com/v/";break;
+					case 5: mysrc="http://open.163.com/";break;
+					default: mysrc="http://www.yiihuu.com/default.php?m=home";break;
+				}
+				switch(i){
+					case 0: src="http://meiriyiwen.com/";break;
+					case 1: src="http://www.win8mi.com/";break;
+					case 2: src="http://ie.cnbeta.com/";break;
+					case 3: src="http://www.aqee.net/";break;
+					case 4: src=(k == 2)||(k == 16)?"http://www.youku.com/show_page/id_ze835083ca67c11e299f6.html":"http://www.h-won.com/";break;
+					default: window.location(mysrc);break;
+				}
+				$(my).attr('src', src);
+				i++;
+			});
+		});
+	</script>
+</body>
+</html>
