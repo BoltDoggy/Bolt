@@ -1,0 +1,14 @@
+body, div{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+body{
+	background: #001122;
+}
+#wrap{
+	background: #ff0000;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
