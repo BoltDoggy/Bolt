@@ -1,0 +1,127 @@
+@keyframes my{
+	0%{
+		top: 0;
+		left: 0;
+		border-radius: 100px;
+		background: #ffffff;
+	}
+	10%{
+		top: 20px;
+	}
+	20%{
+		top: 60px;
+	}
+	30%{
+		top: 40px;
+		left: 300px;
+		border-radius: 50px;
+	}
+	40%{
+		top: 80px;
+	}
+	50%{
+		top: 60px;
+		background: #aa0000;
+	}
+	60%{
+		top: 100px;
+		left: 0;
+	}
+	100%{
+		top: 300px;
+		left: 300px;
+		border-radius: 100px;
+		background: #00aaaa;
+	}
+}
+@-moz-keyframes my{
+	0%{
+		top: 0;
+		left: 0;
+		border-radius: 100px;
+		background: #ffffff;
+	}
+	10%{
+		top: 20px;
+	}
+	20%{
+		top: 60px;
+	}
+	30%{
+		top: 40px;
+		left: 300px;
+		border-radius: 50px;
+	}
+	40%{
+		top: 80px;
+	}
+	50%{
+		top: 60px;
+		background: #aa0000;
+	}
+	60%{
+		top: 100px;
+		left: 0;
+	}
+	100%{
+		top: 300px;
+		left: 300px;
+		border-radius: 100px;
+		background: #00aaaa;
+	}
+}
+@-wekit-keyframes my{
+	0%{
+		top: 0;
+		left: 0;
+		border-radius: 100px;
+		background: #ffffff;
+	}
+	10%{
+		top: 20px;
+	}
+	20%{
+		top: 60px;
+	}
+	30%{
+		top: 40px;
+		left: 300px;
+		border-radius: 50px;
+	}
+	40%{
+		top: 80px;
+	}
+	50%{
+		top: 60px;
+		background: #aa0000;
+	}
+	60%{
+		top: 100px;
+		left: 0;
+	}
+	100%{
+		top: 300px;
+		left: 300px;
+		border-radius: 100px;
+		background: #00aaaa;
+	}
+}
+.my{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	animation: my 2s infinite;
+	-webkit-animation: my 2s infinite;
+}
+.my:hover .li{
+	display: block;
+}
+	.l{
+		display: none;
+	}
+.love{
+	font-size: 500px;
+	color: #ffffff;
+	position: absolute;
+	top: 0;
+}
