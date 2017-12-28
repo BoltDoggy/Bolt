@@ -7,7 +7,7 @@
 * 姓名：王春岩
 * 手机：18815285492（浙江宁波）
 * 地址：浙江省宁波市江北区甬江街道风华路201号11电信学院网络专业
-* 邮箱：lc60005457@163.com
+* 邮箱：jobs@robolt.uu.me
 * QQ：708850992
 
 ## 歪门邪道`JavaScript`
@@ -22,12 +22,11 @@
 ## 工作信息
 
 * `2012.01-2012.10` 火狐校园大使
-* `2013.10-2015.6` TEDxMoonLake成员(志愿者) 前端工程师
-* `2015.01-*` 大搜车 前端工程师
+* `2013.10-?` TEDxMoonLake成员 前端工程师
 
 ## 详细信息
 
-* 生日：1994.01.14
+* 生日：1994.01.04
 
 ## 成就信息
 
@@ -53,11 +52,12 @@ Fork贡献，斜体表示主线版本简介:
 
 ## 更多信息
 
-* 博客：[http://bolt.h-won.com] [1]
-* 微博：[http://weibo.com/u/1896867985] [2]
-* GitHub：[https://github.com/lc60005457] [3]
+* 博客：[http://bolt.coding.me][1]
+* 微博：[@Bolt_白衣苍狗][2]
+* GitHub：[@BoltDoggy][3]
 
 
-[1]: http://bolt.h-won.com "点点"
-[2]: http://weibo.com/u/1896867985 "新浪：@Bolt_白衣苍狗"
-[3]: https://github.com/lc60005457 "Bolt"
+
+[1]: http://bolt.coding.me "coding"
+[2]: http://weibo.com/clbolt "新浪：@Bolt_白衣苍狗"
+[3]: http://github.com/BoltDoggy "Bolt"
