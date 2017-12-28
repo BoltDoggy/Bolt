@@ -52,9 +52,9 @@ Fork贡献，斜体表示主线版本简介:
 
 ## 更多信息
 
-* 博客：[http://bolt.h-won.com] [1]
+* 博客：[http://bolt.coding.me] [1]
 * 微博：[http://weibo.com/u/1896867985] [2]
-* GitHub：[https://github.com/lc60005457] [3]
+* GitHub：[https://github.com/BoltDoggy] [3]
 
 
 
