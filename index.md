@@ -59,5 +59,5 @@ Fork贡献，斜体表示主线版本简介:
 
 
 [1]: http://bolt.coding.me "coding"
-[2]: http://weibo.com/u/1896867985 "新浪：@Bolt_白衣苍狗"
+[2]: http://weibo.com/u/clbolt "新浪：@Bolt_白衣苍狗"
 [3]: https://github.com/BoltDoggy "Bolt"
