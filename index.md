@@ -57,6 +57,7 @@ Fork贡献，斜体表示主线版本简介:
 * GitHub：[https://github.com/lc60005457] [3]
 
 
-[1]: http://bolt.h-won.com "点点"
+
+: http://bolt.coding.me "coding"
 [2]: http://weibo.com/u/1896867985 "新浪：@Bolt_白衣苍狗"
-[3]: https://github.com/lc60005457 "Bolt"
+[3]: https://github.com/BoltDoggy "Bolt"
