@@ -22,6 +22,9 @@
 * HTML - 基础必备技能
 * CSS - 基础必备技能
 * Javascript - 基础必备技能
+	* workflow
+		* gulp - 熟练使用级别
+		* grunt - 尝鲜使用级别
 	* bundler
 		* parcel - 略读源码级别, 实现插件
 			* [github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 150+
