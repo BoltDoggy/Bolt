@@ -205,10 +205,13 @@
 
 技术成就
 
+* 基于 `nodejs` 的前端资源动态生成服务
+	* ~~前期用于 jade / less / commonjs 的自动化编译~~
+		* 使用本地编译 + nginx 托管后, 本方案废弃
+	* 目前仍用于各车商网站的不同主题颜色的样式自动化编译
 * 基于公司定制 vue-cli 的定制 template 脚手架
 	* 加入 `px2rem` + `lib-flexible`
 * `gulp` + `browserify` 前端脚手架(已弃用)
-* 基于 `nodejs` 的前端资源动态生成服务
 
 管理成就
 
