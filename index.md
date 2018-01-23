@@ -20,12 +20,12 @@
 (0)['constructor']['constructor']('return ++[[]][+[]];')();
 ```
 
-* 接触过 angular(>1) / react
-* 接触过 typescript / flow
-* 接触过 php / java
-* 接触过微信小程序/小游戏开发
-* 接触过 iOS / 安卓
-* 接触过 nginx / apache
+* 接触过 `angular(>1)` / `react`
+* 接触过 `typescript` / `flow`
+* 接触过 `php` / `java`
+* 接触过 `微信小程序` / `小游戏` 开发
+* 接触过 `iOS` / `安卓`
+* 接触过 `nginx` / `apache`
 * ...
 
 虽然没有去过多深入学习, 但在未精通以上技术的情况下曾协助朋友解决众多问题.
@@ -50,9 +50,11 @@
 * 车商微店前端(车商网站手机版)
 	* 基于 `jquery` 实现
 	* 逐步移除 `jquery`, 迁移至 `vue`
+	* 基于 `vue-router` 的 `history` mode, 车辆列表与详情无刷新跳转
 * 车商网站微店编辑后台
 	* 基于 `angular@1` 实现
 	* 逐步移除 `angular@1`, 迁移至 `vue`
+	* 微店首页模块化定制
 * 公司内网文章编辑器定制
 	* 基于 `ueditor`, `vue` 封装, 实现定制插件
 
