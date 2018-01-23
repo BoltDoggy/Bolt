@@ -22,23 +22,23 @@
 * HTML - 基础必备技能
 	* (jade / pug) / (mustache / handlebars) / ejs - 曾经熟练使用级别
 * CSS - 基础必备技能
-	* less - 熟练使用级别
+	* __less - 熟练使用级别__
 	* postcss - 能够集成至各类脚手架
 		* cssnext - 尝鲜使用级别
 * Javascript - 基础必备技能
 	* workflow
-		* npm script - 熟练使用级别
+		* __npm script - 熟练使用级别__
 		* gulp - 熟练使用级别
 		* grunt - 尝鲜使用级别
 	* bundler / module loader
 		* parcel - 略读源码级别, 实现插件
 			* [github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 150+
 		* browserify - 实现原理分析级别
-		* webpack - 熟练使用级别
+		* __webpack - 熟练使用级别__
 		* rollup - 尝鲜使用级别
-		* requirejs / seajs - 曾经熟练使用, 现不推荐使用
+		* ~~requirejs / seajs - 曾经熟练使用, 现不推荐使用~~
 	* framework
-		* Vue - 精通使用级别
+		* __Vue - 精通使用级别__
 			* Nuxt - 傻瓜式框架
 		* Angularjs@1 - 曾经精通使用级别, 但弃用很久
 		* React - 尝鲜使用级别, 曾协助朋友入门此框架
@@ -51,12 +51,12 @@
 		* ueditor - 根据业务定制化使用
 		* ... - 尝鲜使用级别
 	* superset
-		* ES6 / ES next - 熟练使用级别
+		* __ES6 / ES next - 熟练使用级别__
 			* babel - 能够集成至各类脚手架
 		* typescript - 尝鲜使用级别
 		* flow - 尝鲜使用级别
 	* NodeJS Server - 可以做一些开发环境的工具, 未尝试在生产环境长期稳定运行的大型服务
-		* express - 实现过一个前端资源动态生成服务用于生产环境, 使用 CDN 缓存, 一般不会出现高并发请求
+		* __express - 实现过一个前端资源动态生成服务用于生产环境__, 使用 CDN 缓存, 一般不会出现高并发请求
 		* koa - 前端资源动态生成服务的重构版, 未用于生产环境
 	* Other
 		* 微信小程序 - 尝鲜使用级别, 曾协助朋友修复 Bug
@@ -68,7 +68,7 @@
 	* iOS - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
 	* 安卓 - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
 * 服务端开发
-	* PHP - 曾经熟练使用级别
+	* ~~PHP - 曾经熟练使用级别~~
 	* Java - 大学课程, 入门级别
 * 服务器运维
 	* nginx - 尝鲜使用级别, 个人云服务器, TEDxNingbo.org 日常运维
