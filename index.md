@@ -13,21 +13,30 @@
 
 ## 技能树
 
-![https://www.codewars.com/users/Bolt](https://www.codewars.com/users/Bolt/badges/micro)
-
 ```
 (0)['constructor']['constructor']('return ++[[]][+[]];')();
 ```
 
+![https://www.codewars.com/users/Bolt](https://www.codewars.com/users/Bolt/badges/micro)
+
 * HTML - 基础必备技能
+	* (jade / pug) / (mustache / handlebars) / ejs - 曾经熟练使用级别
 * CSS - 基础必备技能
+	* less - 熟练使用级别
+	* postcss - 能够集成至各类脚手架
+		* cssnext - 尝鲜使用级别
 * Javascript - 基础必备技能
-	* bundler
+	* workflow
+		* npm script - 熟练使用级别
+		* gulp - 熟练使用级别
+		* grunt - 尝鲜使用级别
+	* bundler / module loader
 		* parcel - 略读源码级别, 实现插件
 			* [github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 150+
 		* browserify - 实现原理分析级别
 		* webpack - 熟练使用级别
 		* rollup - 尝鲜使用级别
+		* requirejs / seajs - 曾经熟练使用, 现不推荐使用
 	* framework
 		* Vue - 精通使用级别
 			* Nuxt - 傻瓜式框架
@@ -38,26 +47,36 @@
 		* Angular(>2) - 尝鲜使用级别
 	* librarys
 		* jquery - 曾经精通使用级别, 仍能快速入手
+		* lodash / underscore - 按需使用级别
 		* ueditor - 根据业务定制化使用
 		* ... - 尝鲜使用级别
 	* superset
+		* ES6 / ES next - 熟练使用级别
+			* babel - 能够集成至各类脚手架
 		* typescript - 尝鲜使用级别
 		* flow - 尝鲜使用级别
-	* NodeJS - 可以做一些自己需要的工具类, 未尝试在生产环境长期稳定运行的大型服务
+	* NodeJS Server - 可以做一些开发环境的工具, 未尝试在生产环境长期稳定运行的大型服务
 		* express - 实现过一个前端资源动态生成服务用于生产环境, 使用 CDN 缓存, 一般不会出现高并发请求
 		* koa - 前端资源动态生成服务的重构版, 未用于生产环境
 	* Other
 		* 微信小程序 - 尝鲜使用级别, 曾协助朋友修复 Bug
 			* wepy - 尝鲜使用级别, 曾协助朋友修复 Bug
 		* 微信小游戏 - 尝鲜使用级别
-* PHP - 曾经熟练使用级别
-* Java - 大学课程, 入门级别
-* iOS - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
-* 安卓 - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
-* nginx - 尝鲜使用级别, 个人云服务器, TEDxNingbo.org 日常运维
-	* HTTPS / 反向代理 / 重定向
-* apache - 尝鲜使用级别
-	* XAMPP - PHP 本地环境快速部署
+		* electron - 尝鲜使用级别
+		* nwjs - 尝鲜使用级别
+* 其它客户端开发
+	* iOS - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
+	* 安卓 - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
+* 服务端开发
+	* PHP - 曾经熟练使用级别
+	* Java - 大学课程, 入门级别
+* 服务器运维
+	* nginx - 尝鲜使用级别, 个人云服务器, TEDxNingbo.org 日常运维
+		* HTTPS / 反向代理 / 重定向
+	* apache - 尝鲜使用级别
+		* XAMPP - PHP 本地环境快速部署
+	* SQL 类 - 大学课程, 入门级别
+	* MongoDB - 曾经尝鲜学习级别
 * ... - 快速学习, 立即投入使用
 
 ## 工作信息
@@ -69,13 +88,13 @@
 项目成就
 
 * 车商微店前端(车商网站手机版) - 日均 uv 10 万+
-	* 微店首页 - 模块化定制, 每家车商独具个性
-		* webpack code split, 根据数据按需加载不同模块
-		* 后台可视化编辑界面
 	* 新版车辆列表页/详情页 - APP 级体验
 		* 代码懒加载优化 / 图片懒加载优化
 		* vue-router history mode, 无刷新跳转
 		* 本地数据存储, 无加载等待体验
+	* 微店首页 - 模块化定制, 每家车商独具个性
+		* webpack code split, 根据数据按需加载不同模块
+		* 后台可视化编辑界面
 * 其它项目
 	* 车商网站前端
 	* 车商网站微店编辑后台
