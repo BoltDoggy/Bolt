@@ -20,7 +20,11 @@
 ```
 
 * HTML - 基础必备技能
+	* (jade / pug) / (mustache / handlebars) / ejs - 曾经熟练使用级别
 * CSS - 基础必备技能
+	* less - 熟练使用级别
+	* postcss - 能够集成至各类脚手架
+		* cssnext - 尝鲜使用级别
 * Javascript - 基础必备技能
 	* workflow
 		* gulp - 熟练使用级别
@@ -41,9 +45,12 @@
 		* Angular(>2) - 尝鲜使用级别
 	* librarys
 		* jquery - 曾经精通使用级别, 仍能快速入手
+		* lodash / underscore - 按需使用级别
 		* ueditor - 根据业务定制化使用
 		* ... - 尝鲜使用级别
 	* superset
+		* ES6 / ES next - 熟练使用级别
+			* babel - 能够集成至各类脚手架
 		* typescript - 尝鲜使用级别
 		* flow - 尝鲜使用级别
 	* NodeJS - 可以做一些自己需要的工具类, 未尝试在生产环境长期稳定运行的大型服务
@@ -53,14 +60,19 @@
 		* 微信小程序 - 尝鲜使用级别, 曾协助朋友修复 Bug
 			* wepy - 尝鲜使用级别, 曾协助朋友修复 Bug
 		* 微信小游戏 - 尝鲜使用级别
-* PHP - 曾经熟练使用级别
-* Java - 大学课程, 入门级别
-* iOS - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
-* 安卓 - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
-* nginx - 尝鲜使用级别, 个人云服务器, TEDxNingbo.org 日常运维
-	* HTTPS / 反向代理 / 重定向
-* apache - 尝鲜使用级别
-	* XAMPP - PHP 本地环境快速部署
+* 其它客户端开发
+	* iOS - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
+	* 安卓 - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
+* 服务端开发
+	* PHP - 曾经熟练使用级别
+	* Java - 大学课程, 入门级别
+* 服务器运维
+	* nginx - 尝鲜使用级别, 个人云服务器, TEDxNingbo.org 日常运维
+		* HTTPS / 反向代理 / 重定向
+	* apache - 尝鲜使用级别
+		* XAMPP - PHP 本地环境快速部署
+	* SQL 类 - 大学课程, 入门级别
+	* MongoDB - 曾经尝鲜学习级别
 * ... - 快速学习, 立即投入使用
 
 ## 工作信息
