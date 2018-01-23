@@ -13,11 +13,11 @@
 
 ## 技能树
 
-![https://www.codewars.com/users/Bolt](https://www.codewars.com/users/Bolt/badges/micro)
-
 ```
 (0)['constructor']['constructor']('return ++[[]][+[]];')();
 ```
+
+![https://www.codewars.com/users/Bolt](https://www.codewars.com/users/Bolt/badges/micro)
 
 * HTML - 基础必备技能
 	* (jade / pug) / (mustache / handlebars) / ejs - 曾经熟练使用级别
@@ -27,14 +27,16 @@
 		* cssnext - 尝鲜使用级别
 * Javascript - 基础必备技能
 	* workflow
+		* npm script - 熟练使用级别
 		* gulp - 熟练使用级别
 		* grunt - 尝鲜使用级别
-	* bundler
+	* bundler / module loader
 		* parcel - 略读源码级别, 实现插件
 			* [github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 150+
 		* browserify - 实现原理分析级别
 		* webpack - 熟练使用级别
 		* rollup - 尝鲜使用级别
+		* requirejs / seajs - 曾经熟练使用, 现不推荐使用
 	* framework
 		* Vue - 精通使用级别
 			* Nuxt - 傻瓜式框架
