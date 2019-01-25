@@ -14,7 +14,7 @@
 ## 技能树
 
 ```
-(+[])['constructor']['constructor']('return ++[[]][+[]];')();
+(0)['constructor']['constructor']('return ++[[]][+[]];')();
 ```
 
 [![codewars](https://www.codewars.com/users/Bolt/badges/micro)](https://www.codewars.com/users/Bolt)
