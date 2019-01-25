@@ -149,12 +149,12 @@
 
 ## 更多信息
 
-* 博客：[http://bolt.coding.me][1]
-* 微博：[@Bolt_白衣苍狗][2]
+* 个人网站：[http://BoltDoggy.com][1]
+* 微博：[@BoltDoggy][2]
 * GitHub：[@BoltDoggy][3]
 
 
 
-[1]: http://bolt.coding.me "coding"
-[2]: http://weibo.com/clbolt "新浪：@Bolt_白衣苍狗"
+[1]: http://boltdoggy.com "BoltDoggy.com"
+[2]: http://weibo.com/clbolt "新浪：@BoltDoggy"
 [3]: http://github.com/BoltDoggy "Bolt"
