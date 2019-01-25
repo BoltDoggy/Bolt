@@ -17,7 +17,7 @@
 (0)['constructor']['constructor']('return ++[[]][+[]];')();
 ```
 
-![https://www.codewars.com/users/Bolt](https://www.codewars.com/users/Bolt/badges/micro)
+[![codewars](https://www.codewars.com/users/Bolt/badges/micro)](https://www.codewars.com/users/Bolt)
 
 * HTML - 基础必备技能
 	* (jade / pug) / (mustache / handlebars) / ejs - 曾经熟练使用级别
