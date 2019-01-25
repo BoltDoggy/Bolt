@@ -32,7 +32,7 @@
 		* grunt - 尝鲜使用级别
 	* bundler / module loader
 		* parcel - 略读源码级别, 实现插件
-			* [github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 150+
+			* [github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 220+
 		* browserify - 实现原理分析级别
 		* __webpack - 熟练使用级别__
 		* rollup - 尝鲜使用级别
