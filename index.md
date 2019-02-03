@@ -1,8 +1,10 @@
-# 求职简历
+# 职场简历
+
+<img src="http://img.souche.com/f2e/ee655c3a87e314888f5478d70082f73f.jpg" align="right" width="300">
 
 > 理性主义者，爱科幻，爱探索。
 
-* 求职意向: `前端开发工程师+`
+* 求职意向: `技术主管(偏前端)` / `前端研发工程师+`
 
 ## 基本信息
 
@@ -17,7 +19,7 @@
 (0)['constructor']['constructor']('return ++[[]][+[]];')();
 ```
 
-![https://www.codewars.com/users/Bolt](https://www.codewars.com/users/Bolt/badges/micro)
+[![codewars](https://www.codewars.com/users/Bolt/badges/micro)](https://www.codewars.com/users/Bolt)
 
 * HTML - 基础必备技能
 	* (jade / pug) / (mustache / handlebars) / ejs - 曾经熟练使用级别
@@ -32,7 +34,7 @@
 		* grunt - 尝鲜使用级别
 	* bundler / module loader
 		* parcel - 略读源码级别, 实现插件
-			* [github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 150+
+			* [github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 220+
 		* browserify - 实现原理分析级别
 		* __webpack - 熟练使用级别__
 		* rollup - 尝鲜使用级别
@@ -83,47 +85,47 @@
 
 ### 杭州大搜车汽车服务有限公司
 
-* `2015.01-现在` 杭州大搜车汽车服务有限公司 前端开发工程师
-
-项目成就
-
-> 公司运营为车商建站(S端)
-> 	=> 车商操作编辑后台(B端)
-> 		=> 买车用户访问车商网站(C端)
-
-> 公司运营发布活动(S端活动): 面向车商(B端) / 面向买车用户(C端)
->
-> 公司运营发起活动(S端)
-> 	=> 车商使用编辑后台启用活动(B端活动)
-> 		=> 买车用户访问车商活动(C端)
-
-> 公司运营编辑运营文章(S端)
-> 	=> 车商转载/改编运营文章(B端运营)
->		=> 买车用户访问车商网站/公众号(C端)
-
-* 车商微店前端(车商网站手机版) - 日均 uv 10 万+, pv 100 万+
-	* 新版车辆列表页/详情页 - APP 级体验
-		* 代码懒加载优化 / 图片懒加载优化
-		* vue-router history mode, 无刷新跳转
-		* 本地数据存储, 无加载等待体验
-	* 微店首页 - 模块化定制, 每家车商独具个性
-		* webpack code split, 根据数据按需加载不同模块
-		* 后台可视化编辑界面
-* 其它项目
-	* 车商网站前端
-	* 车商网站微店编辑后台
-	* 公司内网文章编辑器定制
-	* 车商活动页面
+* `2015.01-现在` 杭州大搜车汽车服务有限公司 前端研发工程师
+	* 大搜车集团官网
+		* web / h5自适应
+		* 中英文切换
+		* SEO 优化
+	* 卖车比价工具
+		* 多端同步(web / h5 / APP / 微信小程序 / 支付宝小程序)
+	* 营销工具系列
+		* 复杂营销场景(2B / 2C / B2C / B2b2C)
+			* S 端公司运营产出模板
+			* B 端集团运营定制模板
+			* B 端店铺运营基于模板产出营销活动
+			* B 端店铺销售分享活动页面
+			* b 端二网销售活动推广返利
+			* C 端活动页面收集用户线索
+		* 多方面技术实现
+			* 富文本编辑器
+			* 图片生成 / 处理
+			* 各类小程序分享
+	* B 端企业建站系统
+		* 基本信息配置(集团 / 店铺信息)
+		* 微店首页 / 自定义添加页面 - 模块化定制, 每家车商独具个性
+			* webpack code split, 根据数据按需加载不同模块
+			* 后台可视化编辑界面
+	* C 端微店前端(车商网站手机版) - 日均 uv 10 万+, pv 100 万+
+		* 新版列表页/详情页 - APP 级体验
+			* 代码懒加载优化 / 图片懒加载优化
+			* vue-router history mode, 无刷新跳转
+			* 本地数据存储, 无加载等待体验
 
 技术成就
 
+* 小程序 webview 内嵌 H5 JSSDK 调用统一封装
+* 基于 `UEditor` 的富文本编辑器定制
 * 基于 `nodejs` 的前端资源动态生成服务
 	* ~~前期用于 jade / less / commonjs 的自动化编译~~
 		* 使用本地编译 + nginx 托管后, 本方案废弃
 	* 目前仍用于各车商网站的不同主题颜色的样式自动化编译
 * 基于公司定制 vue-cli 的定制 template 脚手架
 	* 加入 `px2rem` + `lib-flexible`
-* `gulp` + `browserify` 前端脚手架(已弃用)
+* `gulp` + `browserify` 前端脚手架
 
 管理成就
 
@@ -131,7 +133,7 @@
 	* 截止到 2018.01 小组在职前端 5 人.
 * [公司业务外]
 	* 和另一个小伙伴(目前已离职) 创办公司狼人杀社团
-	* 运营至今, 截止到 2018.01 群成员 130+, 每周不定期活动
+	* 截止到 2018.01 群成员 130+, 每周不定期活动
 
 ### 非正式工作
 
@@ -149,12 +151,12 @@
 
 ## 更多信息
 
-* 博客：[http://bolt.coding.me][1]
-* 微博：[@Bolt_白衣苍狗][2]
+* 个人网站：[http://BoltDoggy.com][1]
+* 微博：[@BoltDoggy][2]
 * GitHub：[@BoltDoggy][3]
 
 
 
-[1]: http://bolt.coding.me "coding"
-[2]: http://weibo.com/clbolt "新浪：@Bolt_白衣苍狗"
+[1]: http://boltdoggy.com "BoltDoggy.com"
+[2]: http://weibo.com/clbolt "新浪：@BoltDoggy"
 [3]: http://github.com/BoltDoggy "Bolt"
