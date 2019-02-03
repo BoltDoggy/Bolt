@@ -1,5 +1,7 @@
 # 职场简历
 
+<img src="http://img.souche.com/f2e/ee655c3a87e314888f5478d70082f73f.jpg" align="right" width="300">
+
 > 理性主义者，爱科幻，爱探索。
 
 * 求职意向: `技术主管(偏前端)` / `前端研发工程师+`
@@ -152,8 +154,6 @@
 * 个人网站：[http://BoltDoggy.com][1]
 * 微博：[@BoltDoggy][2]
 * GitHub：[@BoltDoggy][3]
-
-![脉脉](http://img.souche.com/f2e/ee655c3a87e314888f5478d70082f73f.jpg)
 
 
 
