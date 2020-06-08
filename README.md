@@ -62,7 +62,7 @@
 		* koa - 前端资源动态生成服务的重构版, 未用于生产环境
 	* Other
 		* __微信小程序 - 熟练使用级别__
-			* __mpvue/megalo/uniapp - 熟练使用级别__
+			* __mpvue / megalo / uniapp - 熟练使用级别__
 			* taro - 尝鲜使用级别
 		* 微信小游戏 - 尝鲜使用级别
 		* electron - 尝鲜使用级别
