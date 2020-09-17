@@ -1,6 +1,6 @@
 # 职场简历
 
-<img src="http://img.souche.com/f2e/ee655c3a87e314888f5478d70082f73f.jpg" align="right" width="300">
+<img src="https://img.souche.com/f2e/ee655c3a87e314888f5478d70082f73f.jpg" align="right" width="300">
 
 > 理性主义者，爱科幻，爱探索。
 
