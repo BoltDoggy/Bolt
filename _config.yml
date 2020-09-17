@@ -3,6 +3,5 @@ description: Bolt is a doggy.
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-cayman
-
 gems:
   - jekyll-mentions
