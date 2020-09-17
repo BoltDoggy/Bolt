@@ -24,18 +24,20 @@
 * HTML - 经历服务端模板渲染时期, 熟悉 (jade / pug) / (mustache / handlebars) / ejs 等模板引擎
 * CSS - 熟练使用 __less__ / postcss
 * Javascript - 熟悉 AMD / CMD / commonjs / UMD / ES6 module 等模块化及其发展历史
-	* workflow, 熟练使用 shell (bash / fish) / __npm script__ / ~~(gulp / grunt)~~ 等自动化工具, 使用 NodeJS 开发个人 cli 自动化提高工作效率
+	* workflow, 熟练使用 shell (bash / fish) / __npm script__ / ~~(gulp / grunt)~~ 等自动化工具
+		* 使用 NodeJS 开发个人 cli 自动化提高工作效率
 	* bundler / module loader, 用过 __webpack__ / systemJS / rollup / ~~(browserify / requirejs / seajs)~~
 		* parcel - ~~[github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 220+~~
 	* framework / librarys, __Vue__ / React / ~~(Angularjs@1 / jquery / lodash)~~
-	* superset, __(ES6 / ES next)__ / typescript
-	* NodeJS Server - 基于 express / koa 实现过前端资源动态生成服务, 尝鲜使用 Deno
-	* 小程序 - 开发过微信 / 支付宝小程序, 使用过 mpvue / uniapp / megalo, 尝试过开发微信小游戏
+	* superset, 熟练使用 (ES6 / ES next), 略懂 typescript
+	* 基于 express / koa 实现过前端资源动态生成服务, 尝鲜使用 Deno
+	* 开发过微信 / 支付宝小程序, 使用过 mpvue / uniapp / megalo, 尝试过开发微信小游戏
 	* 使用过 electron / ~~nwjs~~ 开发桌面应用
 	* 开发过 chrome 插件
-* iOS / 安卓, 入门使用, 对公司的项目进行命令行编译, 模拟器启动, 定制 jenkins, 没有开发过原生源码
-* 服务端, 大学课程有 Java / SQL, 毕业设计自己选的 PHP(ThinkPHP 框架), 自己玩过 XAMPP, 用过 MongoDB
-* 服务器运维, Nginx 用于个人云服务器, TEDxNingbo.org 日常运维, 配置反向代理 / 重定向, HTTPS 基于 lets-encrypt
+* iOS / 安卓 - 入门使用, 对公司的项目进行命令行编译, 模拟器启动, 定制 jenkins, 没有开发过原生源码
+* 服务端 - 大学课程有 Java / SQL, 毕业设计自己选的 PHP(ThinkPHP 框架), 自己玩过 XAMPP, 用过 MongoDB
+* 服务器运维 - Nginx 用于个人云服务器, TEDxNingbo.org 日常运维
+	* 配置反向代理 / 重定向, HTTPS 基于 lets-encrypt
 * ... - 快速学习能力, 在公司时常帮助同事解决疑难问题
 
 ## 工作信息
