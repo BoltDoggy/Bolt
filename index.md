@@ -27,7 +27,7 @@
 	* __less - 熟练使用级别__
 	* postcss - 能够集成至各类脚手架
 		* cssnext - 尝鲜使用级别
-* Javascript - 基础必备技能
+* Javascript - 基础必备技能, 熟悉 AMD/CMD/commonjs/UMD/ES6 module 等模块化及其发展历史
 	* workflow
 		* __npm script - 熟练使用级别__
 		* gulp - 熟练使用级别
