@@ -21,66 +21,22 @@
 
 [![codewars](https://www.codewars.com/users/Bolt/badges/micro)](https://www.codewars.com/users/Bolt)
 
-* HTML - 基础必备技能
-	* (jade / pug) / (mustache / handlebars) / ejs - 曾经熟练使用级别
-* CSS - 基础必备技能
-	* __less - 熟练使用级别__
-	* postcss - 能够集成至各类脚手架
-		* cssnext - 尝鲜使用级别
-* Javascript - 基础必备技能, 熟悉 AMD/CMD/commonjs/UMD/ES6 module 等模块化及其发展历史
-	* workflow
-		* __npm script - 熟练使用级别__
-		* gulp - 熟练使用级别
-		* grunt - 尝鲜使用级别
-	* bundler / module loader
-		* parcel - 略读源码级别, 实现插件
-			* [github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 220+
-		* browserify - 实现原理分析级别
-		* __webpack - 熟练使用级别__
-		* rollup - 尝鲜使用级别
-		* ~~requirejs / seajs - 曾经熟练使用, 现不推荐使用~~
-	* framework
-		* __Vue - 精通使用级别__
-			* Nuxt - 傻瓜式框架
-		* ~~Angularjs@1 - 曾经精通使用级别, 但弃用很久~~
-		* React - 尝鲜使用级别, 曾协助朋友入门此框架
-			* Next - 尝鲜使用级别, 曾协助朋友入门此框架
-			* RN - 尝鲜使用级别
-		* Angular(>2) - 尝鲜使用级别
-	* librarys
-		* jquery - 曾经精通使用级别, 仍能快速入手
-		* lodash / underscore - 按需使用级别
-		* ueditor - 根据业务定制化使用
-		* ... - 尝鲜使用级别
-	* superset
-		* __ES6 / ES next - 熟练使用级别__
-			* babel - 能够集成至各类脚手架
-		* typescript - 尝鲜使用级别
-		* flow - 尝鲜使用级别
-	* NodeJS Server - 可以做一些开发环境的工具, 未尝试在生产环境长期稳定运行的大型服务
-		* __express - 实现过一个前端资源动态生成服务用于生产环境__, 使用 CDN 缓存, 一般不会出现高并发请求
-		* koa - 前端资源动态生成服务的重构版, 未用于生产环境
-	* Other
-		* __微信小程序 - 熟练使用级别__
-			* __mpvue / megalo / uniapp - 熟练使用级别__
-			* taro - 尝鲜使用级别
-		* 微信小游戏 - 尝鲜使用级别
-		* electron - 尝鲜使用级别
-		* nwjs - 尝鲜使用级别
-* 其它客户端开发
-	* iOS - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
-	* 安卓 - 尝鲜使用级别, IDE 使用入门, 命令行编译, 模拟器启动
-* 服务端开发
-	* ~~PHP - 曾经熟练使用级别~~
-	* Java - 大学课程, 入门级别
-* 服务器运维
-	* nginx - 尝鲜使用级别, 个人云服务器, TEDxNingbo.org 日常运维
-		* HTTPS / 反向代理 / 重定向
-	* apache - 尝鲜使用级别
-		* XAMPP - PHP 本地环境快速部署
-	* SQL 类 - 大学课程, 入门级别
-	* MongoDB - 曾经尝鲜学习级别
-* ... - 快速学习, 立即投入使用
+* HTML - 经历服务端模板渲染时期, 熟悉 (jade / pug) / (mustache / handlebars) / ejs 等模板引擎
+* CSS - 熟练使用 __less__ / postcss
+* Javascript - 熟悉 AMD / CMD / commonjs / UMD / ES6 module 等模块化及其发展历史
+	* workflow, 熟练使用 shell (bash / fish) / __npm script__ / ~~(gulp / grunt)~~ 等自动化工具, 使用 NodeJS 开发个人 cli 自动化提高工作效率
+	* bundler / module loader, 用过 __webpack__ / systemJS / rollup / ~~(browserify / requirejs / seajs)~~
+		* parcel - ~~[github:BoltDoggy/parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - star 220+~~
+	* framework / librarys, __Vue__ / React / ~~(Angularjs@1 / jquery / lodash)~~
+	* superset, __(ES6 / ES next)__ / typescript
+	* NodeJS Server - 基于 express / koa 实现过前端资源动态生成服务, 尝鲜使用 Deno
+	* 小程序 - 开发过微信 / 支付宝小程序, 使用过 mpvue / uniapp / megalo, 尝试过开发微信小游戏
+	* 使用过 electron / ~~nwjs~~ 开发桌面应用
+	* 开发过 chrome 插件
+* iOS / 安卓, 入门使用, 对公司的项目进行命令行编译, 模拟器启动, 定制 jenkins, 没有开发过原生源码
+* 服务端, 大学课程有 Java / SQL, 毕业设计自己选的 PHP(ThinkPHP 框架), 自己玩过 XAMPP, 用过 MongoDB
+* 服务器运维, Nginx 用于个人云服务器, TEDxNingbo.org 日常运维, 配置反向代理 / 重定向, HTTPS 基于 lets-encrypt
+* ... - 快速学习能力, 在公司时常帮助同事解决疑难问题
 
 ## 工作信息
 
@@ -88,30 +44,22 @@
 
 * `2020.07-现在` 浙江大搜车软件技术有限公司 资深前端工程师
 	* 中石油crm/内购相关项目前端负责人
-	* 营销活动组件化生成页面工具
+	*
 * `2019.01-2020.07` 浙江大搜车软件软件技术有限公司 资深前端工程师
 	* 新车新零售营销/交易前端负责人
 		* SaaS PC 框架负责人(基于 iframe 通讯方案的虚拟多标签应用)
 		* 基于小程序开放平台的第三方平台(客户小程序批量发布)
 * `2015.01-2019.01` 杭州大搜车汽车服务有限公司 高级前端研发工程师(注: 企业架构调整, 同为大搜车)
-	* 大搜车集团官网
-		* web / h5自适应
-		* 中英文切换
-		* SEO 优化
-	* 卖车比价工具
-		* 多端同步(web / h5 / APP / 微信小程序 / 支付宝小程序)
-	* 营销工具系列
+	* 大搜车集团官网 - web / h5自适应, 中英文切换, SEO 优化
+	* 卖车比价工具 - 多端同步开发(web / h5 / APP / 微信小程序 / 支付宝小程序)
+	* 营销工具系列 - 定制富文本编辑器, 图片生成 / 处理, 各种分享场景
 		* 复杂营销场景(2B / 2C / B2C / B2b2C)
-			* S 端公司运营产出模板
+			* Souche 公司运营产出模板
 			* B 端集团运营定制模板
 			* B 端店铺运营基于模板产出营销活动
 			* B 端店铺销售分享活动页面
 			* b 端二网销售活动推广返利
 			* C 端活动页面收集用户线索
-		* 多方面技术实现
-			* 富文本编辑器
-			* 图片生成 / 处理
-			* 各类小程序分享
 	* B 端企业建站系统
 		* 基本信息配置(集团 / 店铺信息)
 		* 微店首页 / 自定义添加页面 - 模块化定制, 每家车商独具个性
@@ -125,23 +73,18 @@
 
 技术成就
 
+* 拖拽组件生成营销活动页面工具
 * 小程序 webview 内嵌 H5 JSSDK 调用统一封装
 * 基于 `UEditor` 的富文本编辑器定制
 * 基于 `nodejs` 的前端资源动态生成服务
-	* ~~前期用于 jade / less / commonjs 的自动化编译~~
-		* 使用本地编译 + nginx 托管后, 本方案废弃
-	* 目前仍用于各车商网站的不同主题颜色的样式自动化编译
-* 基于公司定制 vue-cli 的定制 template 脚手架
-	* 加入 `px2rem` + `lib-flexible`
-* `gulp` + `browserify` 前端脚手架
+* 基于 vue-cli 的定制脚手架, 移动端基于 `px2rem` + `lib-flexible`
 
 管理成就
 
 * 由于入职较早, 辅助新人熟悉公司项目
 	* 小组前端管理最高 5 人.
 * [公司业务外]
-	* 和另一个小伙伴(目前已离职) 创办公司狼人杀社团(目前已解散)
-	* 群成员最高 130+, 每周不定期活动
+	* 和另一个小伙伴(目前已离职) 创办公司狼人杀社团(目前已解散), 群成员最高 130+, 每周不定期活动
 
 ### 非正式工作
 
