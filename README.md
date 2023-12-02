@@ -84,14 +84,10 @@
 * `2013.10-2015.06` TEDxMoonLake(后改名为 TEDxNingbo)成员 前端工程师(志愿者性质)
 * `2012.01-2012.10` 火狐校园大使(志愿者性质)
 
-## 更多信息
-
-* 个人网站：[http://BoltDoggy.com][1]
-* GitHub：[@BoltDoggy][3]
-
 ## 开源项目
 
 [![vanilla-jsx/vanilla-jsx - GitHub](https://gh-card.dev/repos/vanilla-jsx/vanilla-jsx.svg)](https://github.com/vanilla-jsx/vanilla-jsx)
+[![BoltDoggy/parcel-plugin-vue - GitHub](https://gh-card.dev/repos/BoltDoggy/parcel-plugin-vue.svg)](https://github.com/BoltDoggy/parcel-plugin-vue)
 
 [1]: http://boltdoggy.com "BoltDoggy.com"
 [3]: http://github.com/BoltDoggy "Bolt"
