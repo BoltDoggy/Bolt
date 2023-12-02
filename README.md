@@ -7,7 +7,7 @@
 - 手机：18815285492
 - 邮箱：jobs@robolt.uu.me
 - 求职意向：`技术主管(偏前端)` / `前端研发工程师+`
-- 技术文章：https://juejin.cn/user/1468603262311326/posts
+- 技术文章：[https://juejin.cn/user/1468603262311326/posts](https://juejin.cn/user/1468603262311326/posts)
 
 ## 个人优势
 
