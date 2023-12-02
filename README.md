@@ -11,7 +11,11 @@
 ## 个人优势
 
 - 无边界的学习能力，完整的知识图谱
+  - 从传统后端(asp/jsp/php)到各类 js 运行时服务端(node/deno/bun)
+  - 从模块规范(iife/umd/commonjs/esm)到各类框架组件(ng/vue/react/svelte/solid & wc)
+  - 从任务编排 gulp 到模块打包 browserify/webpack/rollup 再到现代打包框架 parcel/vite/bun
 - 无边界的项目经验：大型 SaaS 平台经验、开放能力开发经验、C 端性能优化经验
+- 完整的大小厂经验：跟随大搜车零到一基建成长，
 
 ## 工作经历
 
