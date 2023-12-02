@@ -14,8 +14,10 @@
   - 从传统后端(asp/jsp/php)到各类 js 运行时服务端(node/deno/bun)
   - 从模块规范(iife/umd/commonjs/esm)到各类框架组件(ng/vue/react/svelte/solid & wc)
   - 从任务编排 gulp 到模块打包 browserify/webpack/rollup 再到现代打包框架 parcel/vite/bun
+  - 从 css 预处理器(scss/less)/postcss 到 css-in-js(styled-components/emotion) 再到原子化方案(tailwind)
 - 无边界的项目经验：大型 SaaS 平台经验、开放能力开发经验、C 端性能优化经验
 - 完整的大小厂经验。跟随大搜车零到一基建成长，但不坐井观天；体验过字节完善的基建，但不会形成依赖。适应各类项目环境，丰富的历史债务解决经验。
+- 良好的代码风格，但无偏执喜好，适应各类项目 tslint/stylelint 规范.
 
 ## 工作经历
 
