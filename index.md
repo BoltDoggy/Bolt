@@ -22,7 +22,11 @@
 
 ## 工作经历
 
-### `2021.01-至今` 字节跳动(杭州) 高级前端工程师
+### `2024.01-至今` 浙江精准学 前端负责人
+
+前端团队零到一
+
+### `2021.01-2024.01` 字节跳动(杭州) 高级前端工程师
 
 本人在职期间 5 次(半年/全年)**绩效评级均为 M+**
 
@@ -30,7 +34,7 @@
 - 获得新人系统**资深导师勋章**，辅助 2 名实习 + 3 名校招员工转正
 - 获得稀土掘金开发者社区**技术先锋证书**
 
-#### 飞书 - 财务业务 `2023.07-至今`
+#### 飞书 - 财务业务 `2023.07-2024.01`
 
 核算团队小组前端负责人，带 3 人团队, 负责核算引擎/报账平台/质量平台等业务前端开发. 字节内部财务系统, 支撑字节大体量业财一体化.
 
@@ -93,11 +97,6 @@
 * `2013.10-2015.06` TEDxMoonLake(后改名为 TEDxNingbo)成员 前端工程师(志愿者性质)
 * `2012.01-2012.10` 火狐校园大使(志愿者性质)
 * `2011.10-2012.09` 院团委新闻中心网络技术成员 前端工程师
-
-## 开源项目
-
-[![vanilla-jsx/vanilla-jsx - GitHub](https://gh-card.dev/repos/vanilla-jsx/vanilla-jsx.svg)](https://github.com/vanilla-jsx/vanilla-jsx)
-[![BoltDoggy/parcel-plugin-vue - GitHub](https://gh-card.dev/repos/BoltDoggy/parcel-plugin-vue.svg)](https://github.com/BoltDoggy/parcel-plugin-vue)
 
 [1]: http://boltdoggy.com "BoltDoggy.com"
 [3]: http://github.com/BoltDoggy "Bolt"
