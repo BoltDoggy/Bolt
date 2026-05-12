@@ -94,11 +94,6 @@
 * `2012.01-2012.10` 火狐校园大使(志愿者性质)
 * `2011.10-2012.09` 院团委新闻中心网络技术成员 前端工程师
 
-## 开源项目
-
-[![vanilla-jsx/vanilla-jsx - GitHub](https://gh-card.dev/repos/vanilla-jsx/vanilla-jsx.svg)](https://github.com/vanilla-jsx/vanilla-jsx)
-[![BoltDoggy/parcel-plugin-vue - GitHub](https://gh-card.dev/repos/BoltDoggy/parcel-plugin-vue.svg)](https://github.com/BoltDoggy/parcel-plugin-vue)
-
 [1]: http://boltdoggy.com "BoltDoggy.com"
 [3]: http://github.com/BoltDoggy "Bolt"
 
